@@ -23,9 +23,22 @@ Open [http://localhost:port](http://localhost:port) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## How To Run
+In RestaurantApp, you can use it by type:
+
+### `start`
+Runs the continue the cashier feature of RestaurantApp
+
+
+## Debuging
+
+I have no clue when i clone and run the environtment for the very first time.\
+
+So, i update App.js until it works.\
+
 
 Thank you!
 
-Best Regards,
+Best Regards, \
 Taufik Romadhon
 
