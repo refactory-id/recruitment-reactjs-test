@@ -27,14 +27,13 @@ You may also see any lint errors in the console.
 In RestaurantApp, you can use it by type:
 
 ### `start`
-Runs the continue the cashier feature of RestaurantApp
+Runs the continue the cashier feature of the RestaurantApp
 
 
 ## Debuging
 
-I have no clue when i clone and run the environtment for the very first time.\
-
-So, i update App.js until it works.\
+I have no clue when i clone and run the environtment for the very first time. \
+So, i update App.js until it works. \
 
 
 Thank you!
